@@ -1,16 +1,21 @@
-# flutter_task7
+# flutter_task_7
 
-A new Flutter project.
+1- splash screen 
+2- home screen Containing:
+   -  text 
+   - inkwell
+Inkwell ciclye:
+When user click the button will show dialog he will select date from it then show another dialog to pick or select time, the  date and time show in home screen text 
+Then we talk the date and time and mixed with one variable show in snack bar 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## REAL VideoScreen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/47388207/119200270-e380f800-ba8c-11eb-9ba6-b40e4cf16ce9.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Thanks DSC
+![](https://user-images.githubusercontent.com/47388207/116399350-21418680-a829-11eb-996c-8f62e5373bf8.png)
+
