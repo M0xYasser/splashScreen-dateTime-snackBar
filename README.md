@@ -1,6 +1,7 @@
 # flutter_task_7
 
 1- splash screen 
+
 2- home screen Containing:
    -  text 
    - inkwell
